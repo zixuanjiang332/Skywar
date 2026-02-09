@@ -17,6 +17,7 @@ public final class SkyWar extends JavaPlugin implements Listener {
     public void onEnable() {
         PluginManager pm = Bukkit.getPluginManager();
         pm.registerEvents(new MyfirstListener(),this);
+        //我是功能1
     }
 
     @Override
