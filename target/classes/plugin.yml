@@ -1,0 +1,5 @@
+name: SkyWar
+version: '1.0-SNAPSHOT'
+main: jdd.skyWar.SkyWar
+api-version: '1.21'
+description: balbala
